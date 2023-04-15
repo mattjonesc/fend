@@ -1,13 +1,26 @@
 # Landing Page Project
 
-## Table of Contents
+* [Overview](#overview)
 
-* [Instructions](#instructions)
+## Overview
 
-## Instructions
+This is a JavaScript project that demonstrates how to create a dynamic navigation bar for a website landing page. The navigation bar is an essential component of a website, and it allows users to navigate through the various sections of the website quickly.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+The dynamic navigation bar in this project is created using JavaScript, HTML and CSS. It is designed to be responsive and adapt to additional sections added to the HTML of the website.
 
-To get started, open `js/app.js` and start building out the app's functionality
+* [Features](#features)
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Features
+
+The dynamic navigation bar in this project includes the following features:
+
+Active link highlighting: The link corresponding to the current section is highlighted.
+Smooth scrolling: Clicking on a navigation link scrolls smoothly to the corresponding section.
+Responsive design: The navigation bar adapts to different screen sizes and orientations.
+
+* [Acknowledgments](#acknowledgments)
+
+## Acknowledgments
+
+This project was inspired by the Udacity Landing Page Project as part of the Front End Developer Nanodegree program and uses the starter code provided.
+
